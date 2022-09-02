@@ -1,6 +1,6 @@
 {
   "name": "cygnetops-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cygnetops-cli/local-client": "^0.0.1"
+    "@cygnetops-cli/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "@cygnetops-cli/local-api": "^0.0.1",
+    "@cygnetops-cli/local-api": "^1.0.0",
     "@types/node": "^18.7.13",
     "commander": "^9.4.0",
     "esbuild": "0.8.26",
